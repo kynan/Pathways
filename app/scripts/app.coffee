@@ -4,7 +4,8 @@ angular.module('PathwaysApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',
-  'leaflet-directive'
+  'leaflet-directive',
+  'ngGeolocation'
 ])
   .config ['$routeProvider', ($routeProvider) ->
     $routeProvider
