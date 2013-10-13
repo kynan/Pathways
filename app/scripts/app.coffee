@@ -5,7 +5,8 @@ angular.module('PathwaysApp', [
   'ngResource',
   'ngSanitize',
   'leaflet-directive',
-  'ngGeolocation'
+  'ngGeolocation',
+  'streetCrimveService'
 ])
   .config ['$routeProvider', ($routeProvider) ->
     $routeProvider
