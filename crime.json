@@ -1,0 +1,2466 @@
+[ { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26635801,
+    "location" : { "latitude" : "51.563159",
+        "longitude" : "-0.115826",
+        "street" : { "id" : 971975,
+            "name" : "On or near Andover Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "d3368a01720d477db3f7f9546b507eec9d51596a6766b2162b815b148d3cf8ac"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26598633,
+    "location" : { "latitude" : "51.572841",
+        "longitude" : "-0.093418",
+        "street" : { "id" : 975134,
+            "name" : "On or near Woodberry Grove"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "fcb6dac932faa8f45b7ec3fbb5fdd2aaa08098a9b724194d519d8fc489915d94"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605913,
+    "location" : { "latitude" : "51.570738",
+        "longitude" : "-0.115166",
+        "street" : { "id" : 971994,
+            "name" : "On or near Mount Pleasant Crescent"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Awaiting court outcome",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "ab729df1e45dbc9a2db0bac38912147d8091905f3330a01cad93033e615bfa1f"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26636747,
+    "location" : { "latitude" : "51.566326",
+        "longitude" : "-0.097558",
+        "street" : { "id" : 971853,
+            "name" : "On or near Gloucester Drive"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "ae7dfe071fa63b305ee0d3e08b072f0112284ea44c9aaacd7c03f8009799e43f"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26637027,
+    "location" : { "latitude" : "51.564352",
+        "longitude" : "-0.103931",
+        "street" : { "id" : 972024,
+            "name" : "On or near Rock Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "f2996267919e2b5af809229cee58ba0a0ee368a2414d785574ff074fd9b6b967"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26637341,
+    "location" : { "latitude" : "51.564352",
+        "longitude" : "-0.103931",
+        "street" : { "id" : 972024,
+            "name" : "On or near Rock Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Awaiting court outcome",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "5c24c129d2c8e966d0d615f11f00bcb4d1a1c9746d3c19ecfe11e9cd492d2348"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605874,
+    "location" : { "latitude" : "51.560136",
+        "longitude" : "-0.116312",
+        "street" : { "id" : 972103,
+            "name" : "On or near Further/higher Educational Building"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "5702a5449152ccf872d6aa227c8c6f2d347d676af9ba3c61c2b262d74ce0259f"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26637230,
+    "location" : { "latitude" : "51.557193",
+        "longitude" : "-0.116722",
+        "street" : { "id" : 968289,
+            "name" : "On or near Supermarket"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "820d3d79e17016d237d8a78c387353e00a61059072a23132448753d72997895e"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605454,
+    "location" : { "latitude" : "51.569019",
+        "longitude" : "-0.087301",
+        "street" : { "id" : 971918,
+            "name" : "On or near Woodberry Grove"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "ed647c8585e68b5420ae5ef565099deb6901093324b2ce7dd43c790e1517b578"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605368,
+    "location" : { "latitude" : "51.566496",
+        "longitude" : "-0.100249",
+        "street" : { "id" : 971837,
+            "name" : "On or near Waverley Place"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Awaiting court outcome",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c7336e468bcc8deecc5e32a5a15aab2108b469c03755d8c65dd71e89a9056cda"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605367,
+    "location" : { "latitude" : "51.566496",
+        "longitude" : "-0.100249",
+        "street" : { "id" : 971837,
+            "name" : "On or near Waverley Place"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c7336e468bcc8deecc5e32a5a15aab2108b469c03755d8c65dd71e89a9056cda"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605366,
+    "location" : { "latitude" : "51.566496",
+        "longitude" : "-0.100249",
+        "street" : { "id" : 971837,
+            "name" : "On or near Waverley Place"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c7336e468bcc8deecc5e32a5a15aab2108b469c03755d8c65dd71e89a9056cda"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605365,
+    "location" : { "latitude" : "51.566496",
+        "longitude" : "-0.100249",
+        "street" : { "id" : 971837,
+            "name" : "On or near Waverley Place"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c7336e468bcc8deecc5e32a5a15aab2108b469c03755d8c65dd71e89a9056cda"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605337,
+    "location" : { "latitude" : "51.572554",
+        "longitude" : "-0.090674",
+        "street" : { "id" : 975141,
+            "name" : "On or near Seven Sisters Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "50d81886d1319e4d7f50d9cb05978c3ae580a6291df8cfc7b0880bfc35d4766b"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605922,
+    "location" : { "latitude" : "51.553289",
+        "longitude" : "-0.097107",
+        "street" : { "id" : 968414,
+            "name" : "On or near Kelvin Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "88fb2f70a23743edcd5d269586957853ced5a52a591e87626cd301160f3dc154"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26611619,
+    "location" : { "latitude" : "51.565314",
+        "longitude" : "-0.122345",
+        "street" : { "id" : 971973,
+            "name" : "On or near Bavaria Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "84778e4da6c67d293b47a8cbe68a9198f06b4ca81fbeabf2d274b7ba6d11d731"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26599115,
+    "location" : { "latitude" : "51.558214",
+        "longitude" : "-0.115886",
+        "street" : { "id" : 972091,
+            "name" : "On or near Roden Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "4758df1552e78876905edee33edd06c5941f1f7b8c2236d050fde9c51d436040"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26599116,
+    "location" : { "latitude" : "51.558214",
+        "longitude" : "-0.115886",
+        "street" : { "id" : 972091,
+            "name" : "On or near Roden Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "4758df1552e78876905edee33edd06c5941f1f7b8c2236d050fde9c51d436040"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26604166,
+    "location" : { "latitude" : "51.559779",
+        "longitude" : "-0.098625",
+        "street" : { "id" : 971936,
+            "name" : "On or near Blackstock Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given a caution",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "34793f136e6bf3cc510534aa329d3e265ded479ef07d00506784099123286afa"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26637281,
+    "location" : { "latitude" : "51.551803",
+        "longitude" : "-0.119281",
+        "street" : { "id" : 968280,
+            "name" : "On or near Cardozo Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c165f67c8ee518d4c219a8a263408a72b835b4fc1d9384b9d590bc82ae3b0dfa"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26639020,
+    "location" : { "latitude" : "51.564352",
+        "longitude" : "-0.103931",
+        "street" : { "id" : 972024,
+            "name" : "On or near Rock Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "057961fe96fbbe82d5122908cf4f64cb8fecf6b68b2cd31b36325a8699ccd39b"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26604147,
+    "location" : { "latitude" : "51.553170",
+        "longitude" : "-0.123797",
+        "street" : { "id" : 968281,
+            "name" : "On or near Camden Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "467bed4139d7f048805c25d035b1be6e88ed2d2f2939889c20aa6f2a1c191fd5"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26639027,
+    "location" : { "latitude" : "51.550960",
+        "longitude" : "-0.108253",
+        "street" : { "id" : 968185,
+            "name" : "On or near Tinniswood Close"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c874e644fd378fbbdd4313b36bf422451d4e02200d19e42f58de8509ee929783"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26647977,
+    "location" : { "latitude" : "51.575503",
+        "longitude" : "-0.119573",
+        "street" : { "id" : 974968,
+            "name" : "On or near Dickenson Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender fined",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "3f4428cf2f649cb73dc3ea0c8dee72c419d8db7d5a5e75a7868bba103ff8e003"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26639079,
+    "location" : { "latitude" : "51.562702",
+        "longitude" : "-0.109785",
+        "street" : { "id" : 972028,
+            "name" : "On or near Pooles Park"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "13054111c5b5d083056453f1c69597432360742076e4e4704a18a239b51cb95b"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26639086,
+    "location" : { "latitude" : "51.560646",
+        "longitude" : "-0.100536",
+        "street" : { "id" : 971858,
+            "name" : "On or near Chatterton Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "561d5824a3371e66af69e02aa989b01ce7007b2bf65d9a14a6fc67dfc74678e3"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26639089,
+    "location" : { "latitude" : "51.554963",
+        "longitude" : "-0.098306",
+        "street" : { "id" : 968420,
+            "name" : "On or near Highbury Park"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "501e3b4cb30c62a653de602886638cceca0869bd2528d08cc095a38301c28965"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26639094,
+    "location" : { "latitude" : "51.557317",
+        "longitude" : "-0.100978",
+        "street" : { "id" : 968429,
+            "name" : "On or near Elphinstone Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "3d7ecc68b003744d76cf5f2bd1b94371bf2988c3e144f01e481d2af4ab41136c"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26635823,
+    "location" : { "latitude" : "51.557317",
+        "longitude" : "-0.100978",
+        "street" : { "id" : 968429,
+            "name" : "On or near Elphinstone Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given a caution",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "efa7cbc6af8b87954203ff563ebb563a795906b04402abe997aeb6ea2b9b074c"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26603977,
+    "location" : { "latitude" : "51.568357",
+        "longitude" : "-0.127126",
+        "street" : { "id" : 972224,
+            "name" : "On or near Mulkern Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "8b817d2b45122a2d13aeda172f0a3644287642a41c5858b4e3f21e38407f18fe"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26505086,
+    "location" : { "latitude" : "51.564600",
+        "longitude" : "-0.107095",
+        "street" : { "id" : 1488716,
+            "name" : "Finsbury Park (underground)"
+          }
+      },
+    "location_subtype" : "LU STATION",
+    "location_type" : "BTP",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : ""
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26641711,
+    "location" : { "latitude" : "51.554291",
+        "longitude" : "-0.108475",
+        "street" : { "id" : 968224,
+            "name" : "On or near Sports/recreation Area"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "f80f81609dec996494a0558d48854ab2cd137e3315de4fbd098fd53151122a7a"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26641986,
+    "location" : { "latitude" : "51.563900",
+        "longitude" : "-0.105436",
+        "street" : { "id" : 972052,
+            "name" : "On or near A1201"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "11990fefa2e3b964ba5b466bdc807bfd3a2aad4e3f09d367042ab8fe74944ad8"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26641807,
+    "location" : { "latitude" : "51.566257",
+        "longitude" : "-0.114471",
+        "street" : { "id" : 971952,
+            "name" : "On or near Tollington Park"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "796ec8993b020ffbf5e2d255b33a96504ae06093c62d9197e2e89d1db0f74b42"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26641830,
+    "location" : { "latitude" : "51.565584",
+        "longitude" : "-0.116793",
+        "street" : { "id" : 971950,
+            "name" : "On or near Tollington Place"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "0255bb08993748ec14655ebeb20bd1d4e41f03fab8374852aa329250adb7874e"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26602264,
+    "location" : { "latitude" : "51.570046",
+        "longitude" : "-0.110202",
+        "street" : { "id" : 972066,
+            "name" : "On or near Osborne Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "57f4ca4abf89ee13d03af6cccb2bad7b956225010fbb43a0fb56cd041a42ff9c"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26602409,
+    "location" : { "latitude" : "51.553170",
+        "longitude" : "-0.123797",
+        "street" : { "id" : 968281,
+            "name" : "On or near Camden Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "ab6955746c01a80908e5b8c68993288a85bf6777cdc2dbca9a6c31575c3b734a"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26599157,
+    "location" : { "latitude" : "51.551657",
+        "longitude" : "-0.120845",
+        "street" : { "id" : 968273,
+            "name" : "On or near Hillmarton Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "69b5a147788e7a11f230c507beef52a441d9e61a1c30b940484a975d663090b9"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26642812,
+    "location" : { "latitude" : "51.565107",
+        "longitude" : "-0.105559",
+        "street" : { "id" : 972018,
+            "name" : "On or near Stroud Green Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "dff9d102c5a2a8b6dae606ab761ef78a1162c8c440c4311ab6248786a9f0c18c"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26602381,
+    "location" : { "latitude" : "51.565584",
+        "longitude" : "-0.116793",
+        "street" : { "id" : 971950,
+            "name" : "On or near Tollington Place"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "6a8168554f70ea5b3e0a2a25460f6afb55d98446f05e69275f1a5530bfefca19"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26602380,
+    "location" : { "latitude" : "51.562271",
+        "longitude" : "-0.120999",
+        "street" : { "id" : 971947,
+            "name" : "On or near Tollington Way"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "d57ea02ad483d1787c6b99f0b66c2823c0f2987bc9dd1f1aaa31e8b705e0c041"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26642830,
+    "location" : { "latitude" : "51.565290",
+        "longitude" : "-0.109649",
+        "street" : { "id" : 972041,
+            "name" : "On or near Fonthill Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "2f7618d7e898a9a99859300743d2f5ab34a93f6d4de76efcc1db3b7dc61ab8a0"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26601878,
+    "location" : { "latitude" : "51.566496",
+        "longitude" : "-0.100249",
+        "street" : { "id" : 971837,
+            "name" : "On or near Waverley Place"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "18d178b762b3f67feac82d0ec6920e6726ccb2f20485c12825d2902149ba150d"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26601854,
+    "location" : { "latitude" : "51.567395",
+        "longitude" : "-0.096373",
+        "street" : { "id" : 971876,
+            "name" : "On or near Henry Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "1a31f658d93633cb17b904273af659b90a2fb33b7336457f7fe190533e476650"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26642883,
+    "location" : { "latitude" : "51.568894",
+        "longitude" : "-0.125228",
+        "street" : { "id" : 972236,
+            "name" : "On or near Courtauld Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "2513e26b13e3cba597962c3a16020c274a6ce2492c1299b7a289db528ca50ac5"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26642920,
+    "location" : { "latitude" : "51.567477",
+        "longitude" : "-0.118201",
+        "street" : { "id" : 971987,
+            "name" : "On or near Thorpedale Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "8f2fb958e203146684ea339654567db10c9b47ea2a81390ee4853928de94fe3f"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26643025,
+    "location" : { "latitude" : "51.563900",
+        "longitude" : "-0.105436",
+        "street" : { "id" : 972052,
+            "name" : "On or near A1201"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "8d1cf73e75643eccaaf088a3be31e3d148de767e40bdd2be01b2abb6fb42d730"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26644596,
+    "location" : { "latitude" : "51.557520",
+        "longitude" : "-0.089659",
+        "street" : { "id" : 968351,
+            "name" : "On or near Statham Grove"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "6a97fe6731a998d28128071a9f26f11cec7c129b59c635f9628004cde1a72821"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26619463,
+    "location" : { "latitude" : "51.563793",
+        "longitude" : "-0.112178",
+        "street" : { "id" : 972043,
+            "name" : "On or near Durham Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given a caution",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "d28abc520b998c3c8ba38d2acf25755fe563a5c850992a309237b27c0fe19539"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26600253,
+    "location" : { "latitude" : "51.564000",
+        "longitude" : "-0.085016",
+        "street" : { "id" : 971903,
+            "name" : "On or near Grazebrook Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "5d185b9dd4e4fd3428285bdda3712e9e1d7b93f55b6c93ddbbd3505bb1f91151"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26644734,
+    "location" : { "latitude" : "51.564756",
+        "longitude" : "-0.091159",
+        "street" : { "id" : 971888,
+            "name" : "On or near Lordship Park Mews"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "a44fcfea099f76b5065c91874b31300c45906dd24f2e5b10f2253fbc53099059"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26619477,
+    "location" : { "latitude" : "51.569610",
+        "longitude" : "-0.109369",
+        "street" : { "id" : 972058,
+            "name" : "On or near Upper Tollington Park"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "f9d9eef5025875611ef88db244196d811669a1d65cabca152f6b5799c7bd4c84"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26630475,
+    "location" : { "latitude" : "51.553385",
+        "longitude" : "-0.113100",
+        "street" : { "id" : 968201,
+            "name" : "On or near Holloway Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given a caution",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "b0a32a42f4cf046b70930348bab1b05c1b86a71ec42b2dc1d2fc1ae902019ba0"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26644764,
+    "location" : { "latitude" : "51.560845",
+        "longitude" : "-0.091742",
+        "street" : { "id" : 971891,
+            "name" : "On or near Green Lanes"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "25533e90447af63c13f8404c96c1bddfa943c380ca72d9bfaf90f29a6648881a"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26644894,
+    "location" : { "latitude" : "51.560305",
+        "longitude" : "-0.096684",
+        "street" : { "id" : 971835,
+            "name" : "On or near Wyatt Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "fa2e9e05ce2115df740bae87c35f9d929d59cf1e737735fe3c14eee701848b91"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26644928,
+    "location" : { "latitude" : "51.568720",
+        "longitude" : "-0.125033",
+        "street" : { "id" : 972222,
+            "name" : "On or near Nyton Close"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "ceb23a4ff0875757f8b12093298541d7e9e8151244a901bfd0512cb488162810"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26644930,
+    "location" : { "latitude" : "51.560277",
+        "longitude" : "-0.092198",
+        "street" : { "id" : 971885,
+            "name" : "On or near Riversdale Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "bdf323499a3a443aec3f5d42f52d3db44ebf37d3e2c044559675f768d87d7411"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26633838,
+    "location" : { "latitude" : "51.552415",
+        "longitude" : "-0.117669",
+        "street" : { "id" : 968258,
+            "name" : "On or near Sturmer Way"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given community penalty",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c002a8bc3861b1002e9c3572cd6b9ab47b97d4900571595b02e041286004bbdc"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26611554,
+    "location" : { "latitude" : "51.557971",
+        "longitude" : "-0.101917",
+        "street" : { "id" : 971938,
+            "name" : "On or near Avenell Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given a caution",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "957ef41267a4fe710e7000dd4dca6d160aecbe74adafc340c935db90bb6eb997"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26645733,
+    "location" : { "latitude" : "51.564239",
+        "longitude" : "-0.108077",
+        "street" : { "id" : 972040,
+            "name" : "On or near Goodwin Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c2bdb75c71b57a92a999536ffbdbd3acc91587450f72440174bc2a11c00fc791"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26646496,
+    "location" : { "latitude" : "51.567342",
+        "longitude" : "-0.122680",
+        "street" : { "id" : 971991,
+            "name" : "On or near Porter Square"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "e85a56817a17edff689d5e8b4bc353e1b745972f072b4846cdc27252e4412a6c"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26647646,
+    "location" : { "latitude" : "51.569486",
+        "longitude" : "-0.120124",
+        "street" : { "id" : 971992,
+            "name" : "On or near Ormond Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "7684eb8002ec58e3f088e2525c119539365e33827c0bcaa44d70c56f9f5b3b84"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26619449,
+    "location" : { "latitude" : "51.570738",
+        "longitude" : "-0.115166",
+        "street" : { "id" : 971994,
+            "name" : "On or near Mount Pleasant Crescent"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "5472d7925986f3d5d627493d94bd6a2cad238e24083f61ddf679f5cd9a915d69"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26619475,
+    "location" : { "latitude" : "51.564043",
+        "longitude" : "-0.119930",
+        "street" : { "id" : 971961,
+            "name" : "On or near Mitford Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "caf105c1d2e1b7e67032a58824701617e97958cbb200527576695a0b3b1fdb2b"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26596697,
+    "location" : { "latitude" : "51.559780",
+        "longitude" : "-0.104828",
+        "street" : { "id" : 972082,
+            "name" : "On or near Tannington Terrace"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "a93e5322f0d84a0369b7671f75526bb07979fb6e8cfbb19808b610afd6d79dd5"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26617548,
+    "location" : { "latitude" : "51.570677",
+        "longitude" : "-0.095803",
+        "street" : { "id" : 971868,
+            "name" : "On or near Pedestrian Subway"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "4d500a5cc85aa94f7e200b788a45766ebbf89688825c82e9e495419879be5e37"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26647806,
+    "location" : { "latitude" : "51.563159",
+        "longitude" : "-0.115826",
+        "street" : { "id" : 971975,
+            "name" : "On or near Andover Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "2dfb959ba77ee83021be953f4eb7cf89191770e3ffeac0c31dab62388e3b6c74"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26624482,
+    "location" : { "latitude" : "51.555008",
+        "longitude" : "-0.095001",
+        "street" : { "id" : 968435,
+            "name" : "On or near Aberdeen Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given a caution",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "3d002d91602d17d90957157b547af0aaef50dea48d4bb3dd9d85e86764c57758"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26617534,
+    "location" : { "latitude" : "51.563346",
+        "longitude" : "-0.112399",
+        "street" : { "id" : 972014,
+            "name" : "On or near Wesley Close"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "fe85fd356dabe2638f88c2e3cd8e62e05169660f6ca620e51fe22e387db90934"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26619484,
+    "location" : { "latitude" : "51.554619",
+        "longitude" : "-0.122771",
+        "street" : { "id" : 968266,
+            "name" : "On or near Parkhurst Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "654b58561da794517a6b288741fbc6b11ac0a54aa540ba3800276f98209afbc0"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26620779,
+    "location" : { "latitude" : "51.565584",
+        "longitude" : "-0.102812",
+        "street" : { "id" : 972106,
+            "name" : "On or near Petrol Station"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "0a135c4bf6a53b20b4a7db8a8ad3c124291fe3910e13dc2432e6db2bde2435c1"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26621341,
+    "location" : { "latitude" : "51.551474",
+        "longitude" : "-0.114491",
+        "street" : { "id" : 968199,
+            "name" : "On or near Hornsey Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "33ccf9dae7fd1f93f4dc5ec70ec6a7f7294734b0bcf23d86afcd21d0111995a8"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26615509,
+    "location" : { "latitude" : "51.558906",
+        "longitude" : "-0.109164",
+        "street" : { "id" : 972083,
+            "name" : "On or near Steve Biko Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "4562e34075902619a16d89475cecc628a3fd56fbd11e59c48d540209dea29943"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26621429,
+    "location" : { "latitude" : "51.564305",
+        "longitude" : "-0.124479",
+        "street" : { "id" : 972201,
+            "name" : "On or near Cornwallis Square"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "812be086425715728b13baeb9b5a0cf30e796f94b4b9b08668e2e0572ab10d5b"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26651505,
+    "location" : { "latitude" : "51.569486",
+        "longitude" : "-0.120124",
+        "street" : { "id" : 971992,
+            "name" : "On or near Ormond Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "db1191ee53323d455e451fb3b0dd2ef484e0fa730e1e5783242850d44310a2cf"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26622774,
+    "location" : { "latitude" : "51.566265",
+        "longitude" : "-0.129001",
+        "street" : { "id" : 972206,
+            "name" : "On or near Ashbrook Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "929531d6183b04e463aa34352dac90df0b3776bc3300b3ea9af75dbe65e3e7e0"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26615570,
+    "location" : { "latitude" : "51.571457",
+        "longitude" : "-0.121904",
+        "street" : { "id" : 975000,
+            "name" : "On or near Ashley Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Awaiting court outcome",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "04e4e38aefa12425e3ebabe47975ae90a9ba12ad80d332687e1fc4a80331c481"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26615569,
+    "location" : { "latitude" : "51.571457",
+        "longitude" : "-0.121904",
+        "street" : { "id" : 975000,
+            "name" : "On or near Ashley Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "04e4e38aefa12425e3ebabe47975ae90a9ba12ad80d332687e1fc4a80331c481"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26622802,
+    "location" : { "latitude" : "51.575503",
+        "longitude" : "-0.119573",
+        "street" : { "id" : 974968,
+            "name" : "On or near Dickenson Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "1fd063e07647427a3271968d2635ac57964ade9678fffedba1dcf9542feeaeaa"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26624046,
+    "location" : { "latitude" : "51.572554",
+        "longitude" : "-0.090674",
+        "street" : { "id" : 975141,
+            "name" : "On or near Seven Sisters Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "f9da27b4606ab56b681aae6163bd13a5b6967872f492e149316f6c5d36fb9d5f"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26613609,
+    "location" : { "latitude" : "51.552043",
+        "longitude" : "-0.115766",
+        "street" : { "id" : 968275,
+            "name" : "On or near Heddington Grove"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Awaiting court outcome",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "d16faad6de40a3213697e037589b108cadfd9721090c5519843bc1b74170b34b"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26624074,
+    "location" : { "latitude" : "51.559385",
+        "longitude" : "-0.087143",
+        "street" : { "id" : 971924,
+            "name" : "On or near Stoke Newington Church Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "df0b393395fb63dea0d11b3d27e4b631311b9ac248cb2aef3dfe8f6a3da5de50"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26623975,
+    "location" : { "latitude" : "51.564352",
+        "longitude" : "-0.103931",
+        "street" : { "id" : 972024,
+            "name" : "On or near Rock Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "3e820e05f173fe15724fb83cbb99e88aed576d7c8d37e0b86c8d09b66f40e6f8"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26613574,
+    "location" : { "latitude" : "51.560782",
+        "longitude" : "-0.115679",
+        "street" : { "id" : 971967,
+            "name" : "On or near Hornsey Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "cfe1b4bd79a58375ba64fb141658c75a22416f8a0ce29dc368e6677d21db15ab"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26624507,
+    "location" : { "latitude" : "51.555473",
+        "longitude" : "-0.103175",
+        "street" : { "id" : 968203,
+            "name" : "On or near Highbury Hill"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "f85d3706759e2dd614a77bd0c1ca1aa3c2235438a744e4a56aed3b29af43718a"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26624405,
+    "location" : { "latitude" : "51.564585",
+        "longitude" : "-0.105566",
+        "street" : { "id" : 972019,
+            "name" : "On or near Station Place"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "d2b38b17bc69caa66ba98e9f727bc697c195d7615a6b974514ce6b47b44b84b9"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26624417,
+    "location" : { "latitude" : "51.555150",
+        "longitude" : "-0.090437",
+        "street" : { "id" : 968355,
+            "name" : "On or near Petherton Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "226b8fb2453d5c02e47df682072d07ecc92f51e220bc2c2db6e89d1fca4f21bc"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26624481,
+    "location" : { "latitude" : "51.562426",
+        "longitude" : "-0.122277",
+        "street" : { "id" : 971976,
+            "name" : "On or near Alexander Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "0644b96e5056c8eb9b82360e4fc7c176e61b56895538e9606580eb636a2c6e81"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26613648,
+    "location" : { "latitude" : "51.569191",
+        "longitude" : "-0.112359",
+        "street" : { "id" : 972078,
+            "name" : "On or near Supermarket"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "9d0d1ea6d2b873d17e899cc33646d307a0499f022d3dd998b0aacf122e616a6b"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26613647,
+    "location" : { "latitude" : "51.556124",
+        "longitude" : "-0.116246",
+        "street" : { "id" : 968291,
+            "name" : "On or near Supermarket"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "9dcabd5cfbf9df9c610c55efd99f61ae04246983b84ec010158c4b95ca5c463e"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26613645,
+    "location" : { "latitude" : "51.551283",
+        "longitude" : "-0.112105",
+        "street" : { "id" : 968204,
+            "name" : "On or near Hartnoll Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "a68791c67353e023deeb80c1b7ada5e4936ee05e4d59aa1e7a532ddbce58ad06"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26624548,
+    "location" : { "latitude" : "51.563145",
+        "longitude" : "-0.107704",
+        "street" : { "id" : 972037,
+            "name" : "On or near Isledon Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "2b3cad0d2f9fac51c0a9d51bbc7f897a19bd3cff4c24fa0320f87a96617524ac"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26626736,
+    "location" : { "latitude" : "51.560438",
+        "longitude" : "-0.111625",
+        "street" : { "id" : 972050,
+            "name" : "On or near Berriman Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "32d073cccab947aecfba80a7d6403264781d186cc312b82f569d994c1ec96f22"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26626737,
+    "location" : { "latitude" : "51.567909",
+        "longitude" : "-0.118746",
+        "street" : { "id" : 972003,
+            "name" : "On or near Corbyn Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given a caution",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "0612b4b458f706aae0f40f141abb1c958bcfecec10cdc2e090e6ef4b51244d4c"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26626803,
+    "location" : { "latitude" : "51.564544",
+        "longitude" : "-0.130457",
+        "street" : { "id" : 972200,
+            "name" : "On or near Criterion Mews"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "83ec8dbf42aa969ad016b0f61962993caf8ee540a0cd4314f3448d95a64e6471"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26612881,
+    "location" : { "latitude" : "51.570677",
+        "longitude" : "-0.095803",
+        "street" : { "id" : 971868,
+            "name" : "On or near Pedestrian Subway"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "b2663a9120a9dd3777c9e0817e40b55cf32ab766be0425c24ac74c79a39b62f4"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26626860,
+    "location" : { "latitude" : "51.552690",
+        "longitude" : "-0.109594",
+        "street" : { "id" : 968219,
+            "name" : "On or near Benwell Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Awaiting court outcome",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "2fbd180cf065505e19ec02806f9115f5e9c278d8d2258ab186780c59065d6620"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26611615,
+    "location" : { "latitude" : "51.564966",
+        "longitude" : "-0.121984",
+        "street" : { "id" : 971953,
+            "name" : "On or near Sussex Way"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given a caution",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "39a23c24898d61a63136f83b3abaa7ac0edab2ce698adb1336d074a5a8ce405d"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26611665,
+    "location" : { "latitude" : "51.563075",
+        "longitude" : "-0.108385",
+        "street" : { "id" : 972013,
+            "name" : "On or near Whadcoat Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "e99c50ebffc1ded67b633014624f7c175111d65798414a21522c79871bbbe0d3"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26611663,
+    "location" : { "latitude" : "51.571571",
+        "longitude" : "-0.107166",
+        "street" : { "id" : 975002,
+            "name" : "On or near Upper Tollington Park"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c3355089a2fd19ca8ddd8cc227ece6a069d99bd048a3eeb441785b3c78587e1c"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26626915,
+    "location" : { "latitude" : "51.572907",
+        "longitude" : "-0.122566",
+        "street" : { "id" : 974991,
+            "name" : "On or near Warltersville Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "f09b3b435c5515ac3fd83e4c8bfa3a2b8373526b8ecb3016de22a0d78e1a4e96"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26628598,
+    "location" : { "latitude" : "51.567342",
+        "longitude" : "-0.122680",
+        "street" : { "id" : 971991,
+            "name" : "On or near Porter Square"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "626009b77969a7871cb9faf4b4714f22eb99c743e126389a72438e8a51875bf0"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26611624,
+    "location" : { "latitude" : "51.564966",
+        "longitude" : "-0.121984",
+        "street" : { "id" : 971953,
+            "name" : "On or near Sussex Way"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "94817a45d46071b12bf0eb06d1d925063622a6bf2cfa43d2d6173fd17a1cb157"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26611623,
+    "location" : { "latitude" : "51.567709",
+        "longitude" : "-0.109145",
+        "street" : { "id" : 972059,
+            "name" : "On or near Stroud Green Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c7e86937f75d325c9797b0289df8ae88fa1bca9b5901812251bc53626235ba54"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26628667,
+    "location" : { "latitude" : "51.556630",
+        "longitude" : "-0.105190",
+        "street" : { "id" : 968208,
+            "name" : "On or near Elfort Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "5ca8a960c9504d9958170c2efe0de152a2af71fe85ce93d4452f95fd94aa4dcf"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26596125,
+    "location" : { "latitude" : "51.569026",
+        "longitude" : "-0.094372",
+        "street" : { "id" : 971877,
+            "name" : "On or near Green Lanes"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "b941fb5a92b55ac92c648031f54b98de70c7edffe40349ccf90d6054cfd1d9c5"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26611749,
+    "location" : { "latitude" : "51.557110",
+        "longitude" : "-0.119394",
+        "street" : { "id" : 968292,
+            "name" : "On or near Further/higher Educational Building"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "a93f6a81f3b363eae75fb8da77fc2f68e012e369e1ff3c2f73bdc87a1aa51fb8"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26652383,
+    "location" : { "latitude" : "51.572151",
+        "longitude" : "-0.096839",
+        "street" : { "id" : 975135,
+            "name" : "On or near Green Lanes"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "3d17f868203964d478a5110e3f984d095a7630237867502f8fe5e3265d544162"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26628678,
+    "location" : { "latitude" : "51.562426",
+        "longitude" : "-0.122277",
+        "street" : { "id" : 971976,
+            "name" : "On or near Alexander Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "09266a0771e20e534bbf11e780cb72ee21e4f803b2b1ba35795a2ab702388477"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26628680,
+    "location" : { "latitude" : "51.556750",
+        "longitude" : "-0.123881",
+        "street" : { "id" : 968257,
+            "name" : "On or near Tabley Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "726421e3dba6141515f86f320e1897653f2d5da8c579e4e52a376a9dd49ac352"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26628684,
+    "location" : { "latitude" : "51.569995",
+        "longitude" : "-0.123235",
+        "street" : { "id" : 971990,
+            "name" : "On or near Shaftesbury Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "0ea10fe3847e33a99c1bb3821dc4132c4b640c73ea7df3300d26830763af9517"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26611583,
+    "location" : { "latitude" : "51.575406",
+        "longitude" : "-0.095216",
+        "street" : { "id" : 975085,
+            "name" : "On or near Vale Terrace"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Awaiting court outcome",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "3cb72a3283f2996f98d7bea5ab520b14d97f3bf69cbf1bd0375fc7a796a0dec1"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26628724,
+    "location" : { "latitude" : "51.557485",
+        "longitude" : "-0.118123",
+        "street" : { "id" : 968288,
+            "name" : "On or near Shopping Area"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "c0a96a39667a83c90dbbc0f13e5017ab9b55648ff4f05a1bce7174bba256f499"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26628783,
+    "location" : { "latitude" : "51.568720",
+        "longitude" : "-0.125033",
+        "street" : { "id" : 972222,
+            "name" : "On or near Nyton Close"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "508409a455ec591785106148776de58417ebc59798d5e825f104d88a5dce961c"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26630512,
+    "location" : { "latitude" : "51.564043",
+        "longitude" : "-0.119930",
+        "street" : { "id" : 971961,
+            "name" : "On or near Mitford Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "cf6dbd23a57b6b98b632b0f8d315e0a493872db8e931aeb1a75a7ad1decef3f2"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26630421,
+    "location" : { "latitude" : "51.572844",
+        "longitude" : "-0.106911",
+        "street" : { "id" : 975006,
+            "name" : "On or near Carlton Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "473fdea87876024d1124ca3a5ec232d6f6ad5f0d11c32a925c81a7fb4f46870c"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26630471,
+    "location" : { "latitude" : "51.569177",
+        "longitude" : "-0.118218",
+        "street" : { "id" : 972000,
+            "name" : "On or near Hanley Gardens"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "61e6bf5ead276fd9e0612ac0244a31be0fa8a1b0ca5c4e56904ae3b3cba42329"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26631689,
+    "location" : { "latitude" : "51.570070",
+        "longitude" : "-0.092178",
+        "street" : { "id" : 971919,
+            "name" : "On or near Towncourt Path"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Awaiting court outcome",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "fe6591e975802a2e57707d955b2a25d888153153f036e22ffb796fb6d54f9efc"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26632127,
+    "location" : { "latitude" : "51.550128",
+        "longitude" : "-0.114114",
+        "street" : { "id" : 968206,
+            "name" : "On or near Geary Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "28b41a92bcd592db3b6d3a9b8f134186a9e1f5129983a7dba6b5201edc5b9a3f"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26632157,
+    "location" : { "latitude" : "51.560136",
+        "longitude" : "-0.116312",
+        "street" : { "id" : 972103,
+            "name" : "On or near Further/higher Educational Building"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "a18d58625fb4882879ea6ad9f79732af757d5f9752002dec1b93e61ec3bc4623"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26652856,
+    "location" : { "latitude" : "51.569072",
+        "longitude" : "-0.126837",
+        "street" : { "id" : 972215,
+            "name" : "On or near Westacott Close"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "e4305c310e3fbb5c38d4b2b8fe4e444d4de51fe4d027eafad1549809d6cc8d04"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26608992,
+    "location" : { "latitude" : "51.569019",
+        "longitude" : "-0.087301",
+        "street" : { "id" : 971918,
+            "name" : "On or near Woodberry Grove"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "f79c42d10a17081d6cdd158aec25e996fea0a26c79c523274d48c0ae603f6b9d"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26632194,
+    "location" : { "latitude" : "51.563211",
+        "longitude" : "-0.128087",
+        "street" : { "id" : 972191,
+            "name" : "On or near Hampden Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "d3be3306f5139c5475567f3889486789c1cdf84b5f815351c4d4a1531bf36504"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26632195,
+    "location" : { "latitude" : "51.563211",
+        "longitude" : "-0.128087",
+        "street" : { "id" : 972191,
+            "name" : "On or near Hampden Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "d3be3306f5139c5475567f3889486789c1cdf84b5f815351c4d4a1531bf36504"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26632201,
+    "location" : { "latitude" : "51.557971",
+        "longitude" : "-0.101917",
+        "street" : { "id" : 971938,
+            "name" : "On or near Avenell Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "2ee242b19cebed99d3bee4c01ce211abeb040b3bd19683254c381360c025e5b7"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26596068,
+    "location" : { "latitude" : "51.571113",
+        "longitude" : "-0.095511",
+        "street" : { "id" : 975137,
+            "name" : "On or near Nightclub"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "2ca089cc7a36c9a2e9252feac7dd5161deb4a174c956b8110941bdb02c1aa5a4"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26607734,
+    "location" : { "latitude" : "51.574454",
+        "longitude" : "-0.114190",
+        "street" : { "id" : 974970,
+            "name" : "On or near Darren Close"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "62f395fb7b1513f1ab206183f86e37c6205c52f849cc7498588b83d01e3a8889"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26633905,
+    "location" : { "latitude" : "51.557671",
+        "longitude" : "-0.121261",
+        "street" : { "id" : 968272,
+            "name" : "On or near Holbrooke Court"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "cc87fbf22aebfce42b6d7d7135b99bd6697e8e762c494bfb0f527c941e5a0c2a"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26633943,
+    "location" : { "latitude" : "51.568088",
+        "longitude" : "-0.110327",
+        "street" : { "id" : 972075,
+            "name" : "On or near Athelstane Mews"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "091ea4b356a4a29c56419c5cc79c8169c0ed984c20d41839b4238b42d87b37f6"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26633857,
+    "location" : { "latitude" : "51.556373",
+        "longitude" : "-0.119410",
+        "street" : { "id" : 968255,
+            "name" : "On or near Warlters Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "9ec4ca583a77d2e74518df2ef68e3f05daed0f052125659ba1607d663adf3334"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26633870,
+    "location" : { "latitude" : "51.557971",
+        "longitude" : "-0.101917",
+        "street" : { "id" : 971938,
+            "name" : "On or near Avenell Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given a caution",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "e0f3c9c4c941d0abef1b134019d25bd0d28f6efe2036bacf9bbd391c0d776011"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26633874,
+    "location" : { "latitude" : "51.559319",
+        "longitude" : "-0.120284",
+        "street" : { "id" : 972096,
+            "name" : "On or near Hercules Street"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "a4a27bcc104bc3503d7a18becb23023a5f853c1dfc99c31ec277d0b77ce07f26"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26652870,
+    "location" : { "latitude" : "51.564585",
+        "longitude" : "-0.105566",
+        "street" : { "id" : 972019,
+            "name" : "On or near Station Place"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "1cd3f914cf644bf82a24d417cd94ecedd9410782efe9c64c377227f404cb5b15"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26635250,
+    "location" : { "latitude" : "51.565934",
+        "longitude" : "-0.093924",
+        "street" : { "id" : 971861,
+            "name" : "On or near Castleview Close"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "3fd4058fecc859a30b7514164ff1f597460cf7097e99a30df5fd7b081f6d3d0e"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26598478,
+    "location" : { "latitude" : "51.566496",
+        "longitude" : "-0.100249",
+        "street" : { "id" : 971837,
+            "name" : "On or near Waverley Place"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "d6caae175dfd99561f4dc2fb7922332b54a5cf156dfda83bbe2a3031b240c744"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26598632,
+    "location" : { "latitude" : "51.572994",
+        "longitude" : "-0.095591",
+        "street" : { "id" : 975098,
+            "name" : "On or near Rowley Gardens"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Awaiting court outcome",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "9758595d2d4c1b531155920a1036226b8aeb127c9c0954ed60e5f54c3d17227f"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26635777,
+    "location" : { "latitude" : "51.562203",
+        "longitude" : "-0.116789",
+        "street" : { "id" : 971978,
+            "name" : "On or near Police Station"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "8958206b7248d408d6f65593a0307f4f54b020bd91ad02070c5815b916166388"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26652825,
+    "location" : { "latitude" : "51.569191",
+        "longitude" : "-0.112359",
+        "street" : { "id" : 972078,
+            "name" : "On or near Supermarket"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "ea05b354c6eee0b6ab0680e0b45ae1ed6351a7b39a8e6988307d07e1a6b71a5b"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605929,
+    "location" : { "latitude" : "51.557485",
+        "longitude" : "-0.118123",
+        "street" : { "id" : 968288,
+            "name" : "On or near Shopping Area"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Offender given a caution",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "9b47fc805fba4e2fa69af1d54b39c3f67e2d392c7d73eae8bbffa93994894810"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26605925,
+    "location" : { "latitude" : "51.571958",
+        "longitude" : "-0.122851",
+        "street" : { "id" : 974996,
+            "name" : "On or near Highcroft Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "37b682926806e96b865743e8dd9749064aa5a5ba9a2f73c95172b1a6ec87bd1b"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26619540,
+    "location" : { "latitude" : "51.563211",
+        "longitude" : "-0.128087",
+        "street" : { "id" : 972191,
+            "name" : "On or near Hampden Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "96d4220e57467049a38f131d476bcae7cbb212acd2434dc9886c559d7b8c7516"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26617503,
+    "location" : { "latitude" : "51.569072",
+        "longitude" : "-0.126837",
+        "street" : { "id" : 972215,
+            "name" : "On or near Westacott Close"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Under investigation",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "54e1b2bc19232103ef4d124a739f222d8ddcc679df74855243ec1c5ba87254ef"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26617500,
+    "location" : { "latitude" : "51.569486",
+        "longitude" : "-0.120124",
+        "street" : { "id" : 971992,
+            "name" : "On or near Ormond Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "f4d90a3c8039e496f28cb56290bccf4cb4ade86d498ededfbe2152c2d7454b7e"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26619565,
+    "location" : { "latitude" : "51.554622",
+        "longitude" : "-0.113395",
+        "street" : { "id" : 968210,
+            "name" : "On or near Dunford Road"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "Awaiting court outcome",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "4d77030930ef02b56d8be9f13f60325ddc60c69f40fb2f5a6e73f89fd5d4653a"
+  },
+  { "category" : "violent-crime",
+    "context" : "",
+    "id" : 26621392,
+    "location" : { "latitude" : "51.565194",
+        "longitude" : "-0.113217",
+        "street" : { "id" : 972033,
+            "name" : "On or near Moray Mews"
+          }
+      },
+    "location_subtype" : "",
+    "location_type" : "Force",
+    "month" : "2013-08",
+    "outcome_status" : { "category" : "No further action at this time",
+        "date" : "2013-08"
+      },
+    "persistent_id" : "2ea338b5e95b93e2faa9b11403ecec00edf5686f95d16c3367342c6d3c9bbb7c"
+  }
+]
